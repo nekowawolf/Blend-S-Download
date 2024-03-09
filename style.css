@@ -60,10 +60,10 @@ body {
 }
 
 .tw {
-  text-align: center; /* Mengatur teks menjadi rata tengah */
+  text-align: center; 
 }
 
 .tw h3 {
-  font-size: 50px; /* Mengatur ukuran font menjadi lebih besar */
+  font-size: 50px; 
   font-weight: 400;
 }
